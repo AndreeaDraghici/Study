@@ -1,0 +1,2 @@
+module Java_Inheritance {
+}
