@@ -1,4 +1,4 @@
-# OOP-APP
+# Faculty Study
 
 
 Learning Object Oriented Programming in C++ and Java. 
