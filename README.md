@@ -1,5 +1,6 @@
 # Faculty Study
 
+Learning modular programming in the C language.
 
 Learning Object Oriented Programming in C++ and Java. 
 
