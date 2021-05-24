@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618073564 source:c:\users\user\documents\github\complexnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	"complex.h"
+	"complex.c"
+
+1618073546 c:\users\user\documents\github\complexnumber\complex.h
+
+1618073683 c:\users\user\documents\github\complexnumber\complex.c
+	"complex.h"
+	<stdio.h>
+
