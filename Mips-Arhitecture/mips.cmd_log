@@ -1,0 +1,34 @@
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.sch" mips.vhf
+xst -ise "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator5/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/user/OneDrive/Desktop/An2_Sem2/Laborator7/mips/mips.sch" mips.vhf
