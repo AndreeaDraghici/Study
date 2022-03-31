@@ -1,0 +1,7 @@
+[Inputs]
+Sel
+=I0[31:0]=
+=I1[31:0]=
+[Outputs]
+=Y[31:0]=
+[BiDir]
