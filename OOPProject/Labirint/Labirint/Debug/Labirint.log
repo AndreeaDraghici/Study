@@ -1,0 +1,248 @@
+﻿  main.cpp
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14,5): error C2146: syntax error: missing ';' before identifier 'ox'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(15,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(15,5): error C2146: syntax error: missing ';' before identifier 'oy'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(18,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(18,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(18,5): error C2146: syntax error: missing ';' before identifier 'dx'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(19,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(19,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(19,5): error C2146: syntax error: missing ';' before identifier 'dy'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(22,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(22,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(22,5): error C2146: syntax error: missing ';' before identifier 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(25,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(25,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(25,5): error C2146: syntax error: missing ';' before identifier 'l'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(26,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(26,1): error C2086: 'int var': redefinition
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(14): message : see declaration of 'var'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(26,5): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(31,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(32,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(35,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(36,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(39,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(40,1): error C2059: syntax error: 'while'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(41,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(41,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,13): error C2440: 'initializing': cannot convert from 'int' to 'int [1][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,27): error C2440: 'initializing': cannot convert from 'int' to 'int [2][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,41): error C2440: 'initializing': cannot convert from 'int' to 'int [3][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,55): error C2440: 'initializing': cannot convert from 'int' to 'int [4][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,13): error C2440: 'initializing': cannot convert from 'int' to 'int [5][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,27): error C2440: 'initializing': cannot convert from 'int' to 'int [6][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,41): error C2440: 'initializing': cannot convert from 'int' to 'int [7][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,55): error C2440: 'initializing': cannot convert from 'int' to 'int [8][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(51,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,13): error C2440: 'initializing': cannot convert from 'int' to 'int [9][1]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,27): error C2440: 'initializing': cannot convert from 'int' to 'int [2][2]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,41): error C2440: 'initializing': cannot convert from 'int' to 'int [6][2]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,55): error C2440: 'initializing': cannot convert from 'int' to 'int [9][2]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(52,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,13): error C2440: 'initializing': cannot convert from 'int' to 'int [2][3]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,27): error C2440: 'initializing': cannot convert from 'int' to 'int [4][3]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,41): error C2440: 'initializing': cannot convert from 'int' to 'int [6][3]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,55): error C2440: 'initializing': cannot convert from 'int' to 'int [8][3]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(53,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,13): error C2440: 'initializing': cannot convert from 'int' to 'int [9][3]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,27): error C2440: 'initializing': cannot convert from 'int' to 'int [4][4]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,41): error C2440: 'initializing': cannot convert from 'int' to 'int [8][4]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,55): error C2440: 'initializing': cannot convert from 'int' to 'int [9][2]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(54,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,13): error C2440: 'initializing': cannot convert from 'int' to 'int [2][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,27): error C2440: 'initializing': cannot convert from 'int' to 'int [3][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,41): error C2440: 'initializing': cannot convert from 'int' to 'int [4][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,55): error C2440: 'initializing': cannot convert from 'int' to 'int [5][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(55,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,13): error C2440: 'initializing': cannot convert from 'int' to 'int [6][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,27): error C2440: 'initializing': cannot convert from 'int' to 'int [8][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,42): error C2440: 'initializing': cannot convert from 'int' to 'int [10][5]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,39): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,55): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,44): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,56): error C2440: 'initializing': cannot convert from 'int' to 'int [2][6]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(56,53): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,13): error C2440: 'initializing': cannot convert from 'int' to 'int [4][6]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,27): error C2440: 'initializing': cannot convert from 'int' to 'int [8][6]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,41): error C2440: 'initializing': cannot convert from 'int' to 'int [2][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,55): error C2440: 'initializing': cannot convert from 'int' to 'int [4][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(57,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,13): error C2440: 'initializing': cannot convert from 'int' to 'int [5][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,27): error C2440: 'initializing': cannot convert from 'int' to 'int [6][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,41): error C2440: 'initializing': cannot convert from 'int' to 'int [8][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,55): error C2440: 'initializing': cannot convert from 'int' to 'int [9][7]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(58,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,13): error C2440: 'initializing': cannot convert from 'int' to 'int [2][8]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,27): error C2440: 'initializing': cannot convert from 'int' to 'int [9][8]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,41): error C2440: 'initializing': cannot convert from 'int' to 'int [2][9]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,38): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,43): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,55): error C2440: 'initializing': cannot convert from 'int' to 'int [4][9]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(59,52): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,1): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,13): error C2440: 'initializing': cannot convert from 'int' to 'int [5][9]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,10): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,15): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,27): error C2440: 'initializing': cannot convert from 'int' to 'int [6][9]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,24): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,29): error C2369: 'mp': redefinition; different subscripts
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(50): message : see declaration of 'mp'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,41): error C2440: 'initializing': cannot convert from 'int' to 'int [7][9]'
+C:\Users\user\OneDrive\Desktop\Project_OOP\Labirint\Labirint\main.cpp(60,41): fatal error C1003: error count exceeds 100; stopping compilation
