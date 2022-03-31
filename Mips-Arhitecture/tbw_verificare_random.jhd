@@ -1,0 +1,3 @@
+MODULE tbw_verificare_random
+SUBMODULE mips
+INSTANCE UUT

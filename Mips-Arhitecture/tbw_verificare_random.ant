@@ -1,0 +1,104 @@
+--------------------------------------------------------------------------------
+-- Copyright (c) 1995-2007 Xilinx, Inc.
+-- All Right Reserved.
+--------------------------------------------------------------------------------
+--   ____  ____ 
+--  /   /\/   / 
+-- /___/  \  /    Vendor: Xilinx 
+-- \   \   \/     Version : 9.2.04i
+--  \   \         Application : ISE
+--  /   /         Filename : tbw_verificare_random.ant
+-- /___/   /\     Timestamp : Mon Mar 15 18:03:38 2021
+-- \   \  /  \ 
+--  \___\/\___\ 
+--
+--Command: 
+--Design Name: tbw_verificare_random
+--Device: Xilinx
+--
+
+library UNISIM;
+use UNISIM.Vcomponents.ALL;
+library ieee;
+use ieee.std_logic_1164.ALL;
+use ieee.numeric_std.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY tbw_verificare_random IS
+END tbw_verificare_random;
+
+ARCHITECTURE testbench_arch OF tbw_verificare_random IS
+    FILE RESULTS: TEXT OPEN WRITE_MODE IS "C:\Users\user\OneDrive\Desktop\An2_Sem2\Laborator5\mips\tbw_verificare_random.ano";
+
+    COMPONENT mips
+        PORT (
+            Clk : In std_logic;
+            INW0 : In std_logic_vector (31 DownTo 0);
+            INW1 : In std_logic_vector (31 DownTo 0);
+            OUTW0 : Out std_logic_vector (31 DownTo 0)
+        );
+    END COMPONENT;
+
+    SIGNAL Clk : std_logic := '0';
+    SIGNAL INW0 : std_logic_vector (31 DownTo 0) := "00000000000000000000000000000000";
+    SIGNAL INW1 : std_logic_vector (31 DownTo 0) := "00000000000000000000000000000000";
+    SIGNAL OUTW0 : std_logic_vector (31 DownTo 0) := "00000000000000000000000000000000";
+
+    SHARED VARIABLE TX_ERROR : INTEGER := 0;
+    SHARED VARIABLE TX_OUT : LINE;
+
+    BEGIN
+        UUT : mips
+        PORT MAP (
+            Clk => Clk,
+            INW0 => INW0,
+            INW1 => INW1,
+            OUTW0 => OUTW0
+        );
+
+        PROCESS    -- Annotation process
+            VARIABLE TX_TIME : INTEGER := 0;
+
+            PROCEDURE ANNOTATE_OUTW0(
+                TX_TIME : INTEGER
+            ) IS
+                VARIABLE TX_STR : String(1 to 4096);
+                VARIABLE TX_LOC : LINE;
+            BEGIN
+                STD.TEXTIO.write(TX_LOC, string'("Annotate["));
+                STD.TEXTIO.write(TX_LOC, TX_TIME);
+                STD.TEXTIO.write(TX_LOC, string'(", OUTW0, "));
+                IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, OUTW0);
+                STD.TEXTIO.write(TX_LOC, string'("]"));
+                TX_STR(TX_LOC.all'range) := TX_LOC.all;
+                STD.TEXTIO.writeline(RESULTS, TX_LOC);
+                STD.TEXTIO.Deallocate(TX_LOC);
+            END;
+        BEGIN
+            WAIT for 1 fs;
+            ANNOTATE_OUTW0(0);
+            ANNO_LOOP : LOOP
+                WAIT for 50 ns;
+                TX_TIME := TX_TIME + 50;
+                ANNOTATE_OUTW0(TX_TIME);
+                WAIT for 50 ns;
+                TX_TIME := TX_TIME + 50;
+            END LOOP ANNO_LOOP;
+        END PROCESS;
+
+        PROCESS
+            BEGIN
+                WAIT FOR 1000 ns;
+
+                STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+                STD.TEXTIO.writeline(RESULTS, TX_OUT);
+                ASSERT (FALSE) REPORT
+                    "Success! Simulation for annotation completed"
+                    SEVERITY FAILURE;
+            END PROCESS;
+
+    END testbench_arch;
+
