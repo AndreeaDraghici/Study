@@ -1,0 +1,5 @@
+﻿  CAngajat.cpp
+  main.cpp
+  Generating Code...
+C:\Users\user\Desktop\Examen_POO\Set5_Problema1\Set5_Problema1\CAngajat.cpp(14): warning C4717: 'operator<': recursive on all control paths, function will cause runtime stack overflow
+  Set5_Problema1.vcxproj -> C:\Users\user\Desktop\Examen_POO\Set5_Problema1\Debug\Set5_Problema1.exe
