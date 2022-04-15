@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(80,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(80,9): message : consider using '%ls' in the format string
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(80,9): message : consider using '%lls' in the format string
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(80,9): message : consider using '%Ls' in the format string
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(80,9): message : consider using '%ws' in the format string
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(84,60): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\source\repos\Pipes\Pipes\main.cpp(84,60): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Pipes.vcxproj -> C:\Users\user\source\repos\Pipes\Debug\Pipes.exe
